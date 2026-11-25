@@ -15,3 +15,14 @@ Data publikasi riset UMN tersebar di berbagai format, sehingga sulit membandingk
 - **Halaman dashboard** analitik, termasuk kolaborasi lintas program studi dan halaman kualitas data.
 
 *Dataset dosen dan file .pbix tidak dipublikasikan karena berisi data internal kampus.*
+
+## Dokumen dan Bukti Pengerjaan
+
+| File | Isi |
+|---|---|
+| [`laporan/jurnal_data_warehouse_publikasi_umn.pdf`](laporan/jurnal_data_warehouse_publikasi_umn.pdf) | Jurnal ilmiah (format IEEE) penerapan data warehouse |
+| [`laporan/lampiran_kode_power_query.pdf`](laporan/lampiran_kode_power_query.pdf) | Lampiran kode Power Query (M) untuk proses ETL |
+| [`laporan/laporan_data_warehouse_publikasi_umn.pdf`](laporan/laporan_data_warehouse_publikasi_umn.pdf) | Laporan proyek data warehouse publikasi riset UMN |
+| [`laporan/laporan_lab_data_warehouse.pdf`](laporan/laporan_lab_data_warehouse.pdf) | Laporan lab: skema snowflake, model semantik, DAX measures, dan dashboard Power BI |
+
+> Data pribadi anggota tim (nama, NIM, email) sudah dihapus dari dokumen.
